@@ -1,4 +1,32 @@
-## Welcome to GitHub Pages
+theme: jekyll-theme-minimal
+
+# welcome!!   
+このサイトはrinkamimiのポートフォリオサイトです。　　
+ここでは制作した作品や身に着けたスキルをまとめています。　　
+
+## About me
+**rinkamimi**です　　
+大阪ハイテクノロジー専門学校人工知能学科の在籍中で  　　　
+プログラミングや電気回路等を幅広く学んでいます。  　
+github ~~  
+instagram ~~  
+　　
+
+## Projects
+
+**掲載準備中**
+
+
+
+## Sklls/language/tool
+[x]Japanese　　
+[x]Korian　
+[x]python   
+[x]C
+[x]HTML
+[x]Python
+
+
 
 You can use the [editor on GitHub](https://github.com/rinkamimi/20220422/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
