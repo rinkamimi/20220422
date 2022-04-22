@@ -1,15 +1,16 @@
 theme: jekyll-theme-minimal
 
-# welcome!!   
-このサイトはrinkamimiのポートフォリオサイトです。     　　
-ここでは制作した作品や身に着けたスキルをまとめています。    　　
+# welcome!!      
+このサイトはrinkamimiのポートフォリオサイトです。        
+ここでは制作した作品や身に着けたスキルをまとめています。       
 
 ## About me
 **rinkamimi**です　　
-大阪ハイテクノロジー専門学校人工知能学科の在籍中で       　　　
+
+大阪ハイテクノロジー専門学校人工知能学科の在籍中で        　　　
 プログラミングや電気回路等を幅広く学んでいます。       　
-github ~~     
-instagram ~~     
+github ~~       
+instagram ~~         
 　　
 
 ## Projects
