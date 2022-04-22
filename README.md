@@ -7,11 +7,10 @@ theme: jekyll-theme-minimal
 ## About me
 **rinkamimi**です　　
 
-大阪ハイテクノロジー専門学校人工知能学科の在籍中で        　　　
-プログラミングや電気回路等を幅広く学んでいます。       　
-github ~~       
-instagram ~~         
-　　
+大阪ハイテクノロジー専門学校人工知能学科の在籍中で     　
+プログラミングや電気回路等を幅広く学んでいます。   
+github~~     
+instagram~~   
 
 ## Projects
 
