@@ -25,12 +25,12 @@ instagram~~
 
 
 ## Sklls/language/tool
-[x]Japanese　   　
-[x]Korian　   
-[x]python        
-[x]C     
-[x]HTML     
-[x]Python    
+[◎]Japanese　   　
+[◎]Korian　   
+[◎]python        
+[◎]C     
+[◎]HTML     
+[◎]Python    
 
 
 
